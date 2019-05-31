@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="UTF-8">
+    <title>Hello World!</title>
+  </head>
+  <body>
+    <h1>Hello World!</h1>
+    We are using node <script>document.write(process.versions.node)</script>,
+    Chrome <script>document.write(process.versions.chrome)</script>,
+    and Electron <script>document.write(process.versions.electron)</script>.
+    <script>
+      let xhttp = new XMLHttpRequest();
+      xhttp.onreadystatechange = function() {
+        if(this.readyState == 4 && this.status == 200) {
+          console.log(xhttp.responseText);
+        }
+      }
+      xhttp.open("GET", "http://127.0.0.1:3030/yo");
+      xhttp.send();
+    </script>
+  </body>
+</html>

@@ -1,0 +1,14 @@
+{
+  "name": "homeworkapp",
+  "version": "1.0.0",
+  "description": "A homework app.",
+  "main": "index.js",
+  "scripts": {
+    "test": "node index"
+  },
+  "keywords": [
+    "homework"
+  ],
+  "author": "Amy Cross",
+  "license": "ISC"
+}

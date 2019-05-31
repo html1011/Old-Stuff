@@ -1,0 +1,12 @@
+{
+  "name": "30_day_challenge",
+  "version": "1.0.0",
+  "description": "",
+  "main": "client.js",
+  "scripts": {
+    "test": "node index",
+    "start": "node ."
+  },
+  "author": "Amy",
+  "license": "ISC"
+}
