@@ -1,10 +1,8 @@
-Hello there!
-Wassup my man!
-You are so weird, you know that?
-Whatever. I do not care.
-It will be annoying to insert this.
-So what?
-We are learning, man.
-This is a learning experience!
-Whatever. Yo!
-Yeah.
+This is a test.
+Really? What is a test?
+What is your name?
+My name is Sarah, what is yours?
+How old are you?
+I am as old as you want me to be.
+How much training data do you think we need?
+I'm not sure. Probably a lot.
